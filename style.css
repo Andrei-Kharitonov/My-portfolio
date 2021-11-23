@@ -94,14 +94,10 @@ ul {
   align-items: center;
 }
 
-.skills__list ul {
+.skills__list {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-}
-
-.skills__list-title {
-  font-size: 28px;
 }
 
 .skills__list-item {
@@ -139,7 +135,7 @@ ul {
 
 .projects__section-title {
   text-align: center;
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 400;
 }
 
